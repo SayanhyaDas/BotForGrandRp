@@ -16,6 +16,7 @@ print("""Disclaimer (Read this you Lazyass  Person) :
               <>While The Script is Running Better to switch windows to Rage Multiplayer to avoid error
               <>If you get banned for using this AntiAfk and E Spammer Bot We are not REsponsible
               <>If you want to Join Our Discord Server link : discord.gg/PgpKb7bz4S
+              <>STILL IN DEV BE CAREFULL
  """)
 
 choicealpha=input("Do you Wish to continue type (yes to continue) ")
